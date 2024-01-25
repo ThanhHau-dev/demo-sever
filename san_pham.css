@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header{
+    background-color: #343434;
+    padding: 20px;
+    color: white;
+}
+
+.header h2{
+    font-weight: bold;
+    border-color: black;
+}
+
+#logo{
+    font-size: 40px;
+    color:#ffd000;
+}
+
+.btn-header{
+    color: white;
+    background-color: black;
+}
+
+.navbar{
+    background-color: black;
+    color:white;
+}
+
+.nav-link{
+    padding: 15px;
+}
+
+.btnsp{
+    background-color: black;
+    color: white;
+    width: 100%;
+    padding: 10px;
+}
